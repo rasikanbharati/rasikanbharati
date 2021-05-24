@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rasika Bharati graduate from Pune University in (BE)Information Technology.
 - 👀 I’m interested in Python, Swift, Java and C++.
-- 🌱 I’m currently learning Swift Programming.
+- 🌱 I’m currently learning ios development.
 - 📫 You can reach me @rasikanbharati6@gmail.com 
 
 <!---
