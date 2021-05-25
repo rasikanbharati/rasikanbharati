@@ -5,10 +5,9 @@
     <a href="mailto:im.rasikanbharati6@gmail.com"><img src="https://github.com/rasikanbharati/myimages/blob/main/gmail.png"  height="40px" width="40px" alt="Gmail"></a>&nbsp;
     <a href="https://twitter.com/rasikanbharati6"><img src="https://github.com/rasikanbharati/myimages/blob/main/twitter.png" height="40px" width="40px"                  alt="Twitter"></a>&nbsp;
     <a href="https://www.linkedin.com/in/rasikabharati21/"><img src="https://github.com/rasikanbharati/myimages/blob/main/linkedin.png" height="40px" width="40px"                  alt="LinkedIn"></a>&nbsp;
-     <a href="https://medium.com/@rasikanbharati6"><img src="https://github.com/rasikanbharati/myimages/blob/main/medium.png" height="40px" width="40px"                    alt="Medium"></a>&nbsp;
-    <a href="https://www.instagram.com/_rasikabharati_/"><img src="https://github.com/rasikanbharati/myimages/blob/main/insta.png" height="40px" width="40px"                  alt="Instagram"></a> &nbsp;   
+     <a href="https://www.instagram.com/_rasikabharati_/"><img src="https://github.com/rasikanbharati/myimages/blob/main/insta.png" height="40px" width="40px"                  alt="Instagram"></a> &nbsp;   
     <a href="https://www.facebook.com/rasikanbharati/"><img src="https://github.com/rasikanbharati/myimages/blob/main/facebook.png" height="40px" width="40px"                  alt="Facebook"></a>&nbsp;
-   <a href=""><img src="https://github.com/rasikanbharati/myimages/blob/main/youtube.png" height="40px" width="40px"                  alt="Youtube"></a>
+   
    </p>
  </div>
  <h1>Glad to see you here! </h1>
@@ -26,11 +25,11 @@ I am a self-learner and an enthusiastic developer. I hold a bachelor's degree in
    <h2>About Me</h2>
   </p>  
   <p style="font-family:Arial;" align="right">    
-    <p>👨🏻‍💻 I’m currently working on App</p>
+    <p>👨🏻‍💻 I’m currently working on iOS App</p>
     <p>🚀 I’m currently learning SwiftUI</p>
     <p>❤️ Basketball, Gardening and Photography</p>
     <p>💬 Ask me about anything, I am happy to help </p>
-    <p>📝 [Resume]</p>
+    <p>📝 <a href="https://github.com/rasikanbharati/myimages/blob/main/ResumeY.docx">Resume</a></p>
   </p>
  </div>
  </div> 
