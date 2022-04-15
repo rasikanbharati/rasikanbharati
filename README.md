@@ -29,7 +29,7 @@ I am a self-learner and an enthusiastic developer. I hold a bachelor's degree in
     <p>🚀 I’m currently learning SwiftUI</p>
     <p>❤️ Basketball, Gardening and Photography</p>
     <p>💬 Ask me about anything, I am happy to help </p>
-    <p style="color:white">📝 <a href="https://github.com/rasikanbharati/myimages/blob/main/MyResume.pdf">Resume</a></p>
+    <p>📝 <a href="https://github.com/rasikanbharati/myimages/blob/main/MyResume.pdf" style="color: white; text-decoration: underline;text-decoration-style: dotted;">Resume</a></p>
   </p>
  </div>
  </div> 
