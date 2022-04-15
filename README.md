@@ -5,7 +5,7 @@
     <a href="mailto:im.rasikanbharati6@gmail.com"><img src="https://github.com/rasikanbharati/myimages/blob/main/gmail.png"  height="40px" width="40px" alt="Gmail"></a>&nbsp;
     <a href="https://twitter.com/rasikanbharati6"><img src="https://github.com/rasikanbharati/myimages/blob/main/twitter.png" height="40px" width="40px"                  alt="Twitter"></a>&nbsp;
     <a href="https://www.linkedin.com/in/rasikabharati21/"><img src="https://github.com/rasikanbharati/myimages/blob/main/linkedin.png" height="40px" width="40px"                  alt="LinkedIn"></a>&nbsp;
-     <a href="https://www.instagram.com/_rasikabharati_/"><img src="https://github.com/rasikanbharati/myimages/blob/main/insta.png" height="40px" width="40px"                  alt="Instagram"></a> &nbsp;   
+     <a href="https://www.instagram.com/a_square_grid/"><img src="https://github.com/rasikanbharati/myimages/blob/main/insta.png" height="40px" width="40px"                  alt="Instagram"></a> &nbsp;   
     <a href="https://www.facebook.com/rasikanbharati/"><img src="https://github.com/rasikanbharati/myimages/blob/main/facebook.png" height="40px" width="40px"                  alt="Facebook"></a>&nbsp;
    
    </p>
